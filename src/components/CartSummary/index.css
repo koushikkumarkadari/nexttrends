@@ -1,0 +1,34 @@
+.cart-summary-container {
+  align-self: flex-end;
+  font-family: roboto;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.cart-bill-container {
+  display: flex;
+  align-items: center;
+}
+.order-text {
+  font-size: large;
+  color: #616e7c;
+  margin-bottom: 5px;
+}
+.total-bill {
+  font-size: x-large;
+  font-weight: bold;
+  padding-left: 5px;
+  color: #171f46;
+  display:flex;
+  align-items: center;
+}
+.total-items {
+  color: #616e7c;
+}
+.check-out-button {
+  background-color: #0b69ff;
+  border: 0px;
+  border-radius: 10px;
+  height: 36px;
+  color: white;
+}
